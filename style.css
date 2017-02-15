@@ -6,7 +6,7 @@ body
 
 .banner
 {
-  display:inline-block;
+  background-attachment: scroll;
   width:100%;
   height:200px;
   background-image: url(bannerpic.png);
