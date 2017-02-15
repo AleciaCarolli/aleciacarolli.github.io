@@ -8,7 +8,7 @@ body
 {
 
 background-image: url('/background.png');
-background :cover;
+background-size :cover;
 }
 
 .center
