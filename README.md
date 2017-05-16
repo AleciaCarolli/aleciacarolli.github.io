@@ -1,2 +1,4 @@
 # aleciacarolli.github.io
-Carolli cupcakes
+belle boutique 
+
+speciality beauty store that carries dress and jewlery.
