@@ -1,0 +1,74 @@
+body {
+    display: block;
+    margin: auto;
+    width: 900px;
+    color: #555555;
+}
+
+.banner {
+    display: block;
+    height: 400px;
+    width: 100%;
+}
+
+.nav {
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.nav a {
+    display: inline-block;
+    width: 20%;
+    border: 1px solid #ccc;
+    padding: 20px;
+    text-decoration: none;
+    color: white;
+    background-color: #B47EB3;
+}
+
+.nav a:hover {
+    background-color: #FFD5FF;
+    color: black;
+}
+
+h1 {
+    color: #B47EB3;
+}
+
+.dress {
+    display: block;
+    width: 200px;
+    height: 200px;
+    margin: auto;
+}
+
+.jewellery {
+    display: block;
+    width: 200px;
+    height: 200px;
+    margin: auto;
+}
+
+.gif {
+    display: block;
+    width: 200px;
+    height: 200px;
+    background-image: url(gif.gif);
+    background-size: 200px;
+    float: left;
+    margin-right: 100px;
+}
+
+.hover {
+    display: block;
+    width: 200px;
+    height: 200px;
+    background-image: url(hover.png);
+    background-size: 200px;
+    float: left;
+    margin-right: 100px;
+}
+
+.hover:hover {
+    background-image: url(hover2.png);
+}
