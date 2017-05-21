@@ -3,6 +3,13 @@ body {
     margin: auto;
     width: 900px;
     color: #555555;
+    background-color: white;
+    min-height: 1000px;
+    padding: 20px;
+}
+
+html {
+    background-color: #FFD5FF;
 }
 
 .banner {
